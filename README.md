@@ -6,7 +6,7 @@
 
 
 
-- 🌱 I’m currently learning **MERN STACK/SERVICENOW**
+- 🌱 I’m currently learning MERN STACK/SERVICENOW
 
 
 <h3 align="left">Connect with me:</h3>
