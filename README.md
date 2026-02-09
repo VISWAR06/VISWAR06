@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm VISWA</h1>
-<h3 align="center">MERN STACK DEVELOPER AND JAVA DEVELOOPER</h3>
+<h3 align="center">MERN STACK DEVELOPER AND JAVA DEVELOPER</h3>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="VISWA GIF" style="width:600px; height:auto;" />
 </p>
