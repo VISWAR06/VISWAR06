@@ -60,70 +60,108 @@ const softwareArchitect = {
 
 ---
 
+## 📅 Animated Commit Heatmap - Your Daily Contributions
+
+<div align="center">
+  
+### ✨ Contributions by Day (Animated Intensity Map) ✨
+
+[![GitHub Contribution Chart](https://ghchart.rshah.org/00FF00/VISWAR06)](https://github.com/VISWAR06)
+
+<p><i>🟩 Darker Green = More Commits | Light Green = Fewer Commits</i></p>
+
+</div>
+
+---
+
 ## 🔥 Live Contribution Streak
 
 <div align="center">
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=VISWAR06&theme=neon&hide_border=true" alt="GitHub Streak Stats" />
+  <a href="https://github.com/VISWAR06">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=VISWAR06&theme=neon&hide_border=true&stroke=00FF00" alt="GitHub Streak Stats" width="90%"/>
   </a>
 </div>
 
 ---
 
-## 📊 GitHub Analytics & Repository Stats
-
-<div align="center">
-  <a href="https://github.com/VISWAR06">
-    <img src="https://github-readme-stats.vercel.app/api?username=VISWAR06&show_icons=true&theme=neon&hide_border=true&count_private=true&bg_color=0d1117&text_color=00FF00&icon_color=00D9FF" alt="GitHub Stats" width="49%" />
-  </a>
-  <a href="https://github.com/VISWAR06">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VISWAR06&layout=compact&theme=neon&hide_border=true&bg_color=0d1117&text_color=00FF00" alt="Top Languages" width="49%" />
-  </a>
-</div>
-
----
-
-## 🏆 Achievements & Milestones
-
-<div align="center">
-  <a href="https://github.com/VISWAR06">
-    <img src="https://github-profile-trophy.vercel.app/?username=VISWAR06&theme=neon&no-frame=true&column=7" alt="GitHub Trophies" />
-  </a>
-</div>
-
----
-
-## 📈 Contribution Graph & Activity
-
-<div align="center">
-  <a href="https://github.com/VISWAR06">
-    <img src="https://activity-graph.herokuapp.com/graph?username=VISWAR06&theme=neon&hide_border=true&bg_color=0d1117&color=00FF00&line=00D9FF&point=FF006E" alt="Activity Graph" width="90%" />
-  </a>
-</div>
-
----
-
-## 💻 Featured Projects
+## 📊 GitHub Statistics & Repository Analytics
 
 <div align="center">
 
-| Project | Description | Tech Stack |
-|---------|-------------|-----------|
-| 🚀 [Project 1] | Your awesome project description here | TypeScript, React, Node.js |
-| 🌟 [Project 2] | Another great project | Python, Django, PostgreSQL |
-| ⚡ [Project 3] | More innovation | Docker, AWS, Microservices |
+### Your GitHub Performance Metrics
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=VISWAR06&show_icons=true&theme=neon&hide_border=true&bg_color=0d1117&title_color=00FF00&icon_color=00D9FF&text_color=ffffff&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VISWAR06&layout=compact&theme=neon&hide_border=true&bg_color=0d1117&title_color=00FF00&text_color=ffffff" alt="Top Languages"/>
+    </td>
+  </tr>
+</table>
 
 </div>
 
 ---
 
-## 🎯 Current Goals
+## 📈 31-Day Activity Wave Graph
 
-- 🔬 Mastering advanced TypeScript patterns
-- 🏗️ Architecting scalable microservices
-- ☁️ Deep diving into AWS cloud solutions
-- 🤝 Contributing to open-source projects
-- 📚 Building production-grade applications
+<div align="center">
+
+<img src="https://activity-graph.herokuapp.com/graph?username=VISWAR06&theme=neon&hide_border=true&bg_color=0d1117&color=00FF00&line=00D9FF&point=FF006E&area=true" alt="Activity Graph" width="95%"/>
+
+<p><i>📊 Real-time visualization of coding activity with animated daily metrics</i></p>
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements & Milestones
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=VISWAR06&theme=neon&no-frame=true&column=7&row=1" alt="GitHub Trophies" width="100%"/>
+
+</div>
+
+---
+
+## 💻 Most Used Programming Languages
+
+<div align="center">
+
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=VISWAR06&theme=neon&hide_border=true&bg_color=0d1117&layout=compact)](https://github.com/VISWAR06)
+
+</div>
+
+---
+
+## 🔗 Featured Projects
+
+<div align="center">
+
+| 🚀 Project | 📝 Description | 💻 Tech Stack |
+|:-----------|:---------------|:--------------|
+| [Your Project 1] | Advanced TypeScript application | TypeScript, React, Node.js |
+| [Your Project 2] | Backend microservices | Python, Django, PostgreSQL |
+| [Your Project 3] | Cloud infrastructure | Docker, AWS, Kubernetes |
+
+</div>
+
+---
+
+## 🎯 Goals & Roadmap
+
+<div align="center">
+
+- 🔬 **Advanced TypeScript** - Mastering complex type systems
+- 🏗️ **Microservices Architecture** - Building scalable systems
+- ☁️ **AWS Cloud Solutions** - Deep cloud engineering expertise
+- 🤝 **Open Source** - Contributing to major projects
+- 📚 **System Design** - Production-grade applications
+
+</div>
 
 ---
 
@@ -131,9 +169,10 @@ const softwareArchitect = {
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-VISWAR06-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VISWAR06)
-[![Twitter](https://img.shields.io/badge/Twitter-@VISWAR06-00FF00?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/VISWAR06)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-VISWAR06-FF006E?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/VISWAR06)
+[![GitHub](https://img.shields.io/badge/GitHub-VISWAR06-00D9FF?style=for-the-badge&logo=github&logoColor=white&logoWidth=30)](https://github.com/VISWAR06)
+[![Twitter](https://img.shields.io/badge/Twitter-@VISWAR06-00FF00?style=for-the-badge&logo=x&logoColor=white&logoWidth=30)](https://twitter.com/VISWAR06)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-VISWAR06-FF006E?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=30)](https://linkedin.com/in/VISWAR06)
+[![Email](https://img.shields.io/badge/Email-rviswa4347-00D9FF?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=30)](mailto:rviswa4347@gmail.com)
 
 </div>
 
@@ -142,9 +181,13 @@ const softwareArchitect = {
 <div align="center">
   
   <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=VISWAR06&color=00FF00&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=VISWAR06&color=00FF00&style=flat-square&label=Profile+Views" alt="Profile Views" />
   
-  <!-- Last Updated -->
-  <p><i>Last updated: August 31, 2026 ✨</i></p>
+  <br/>
+  
+  <!-- Animated Footer -->
+  ✨ **Building amazing things with code** ✨
+  
+  <p><i>Last updated: August 31, 2026 🚀</i></p>
   
 </div>
