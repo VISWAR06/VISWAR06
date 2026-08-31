@@ -1,57 +1,75 @@
-<h1 align="center">Hi 👋, I'm VISWA</h1>
-<h3 align="center">MERN STACK DEVELOPER AND JAVA DEVELOPER</h3>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="VISWA GIF" style="width:600px; height:auto;" />
-</p>
+<!-- ⚠️ IMPORTANT: Replace ALL 7 instances of "YOUR_GITHUB_USERNAME" with your actual GitHub username ⚠️ -->
 
+<div align="center">
+  
+  <!-- SHINY HEADER: Holographic Neon Fluid Typing Script -->
+  <img src="https://demolab.com🌌+WELCOME+TO+MY+DIGITAL+SPACE;🚀+Full+Stack+Software+Architect;✨+Building+The+Future+With+Clean+Code" alt="Typing Banner" />
 
+  <p align="center">
+    <!-- Shiny Star Badges & Activity Trackers -->
+    <img src="https://shields.io🌟+Total+Stars" alt="Stars" />
+    <img src="https://shields.io👥+Network" alt="Followers" />
+  </p>
+</div>
 
-- 🌱 I’m currently learning MERN STACK//SERVICENOW
+---
 
+### ⚡ Operational Core
+```javascript
+const engineer = {
+  architectures: ["TypeScript/React", "Node.js", "Python/Django", "Docker/AWS"],
+  mindset: "Optimized pipelines, sleek graphics, and highly scalable systems",
+  status: "✨ Actively committing and hunting for innovative integrations ✨"
+};
+```
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
-</p>
+### 🔥 Live Contribution Streak (Commit Shiny Metrics)
+<div align="center">
+  <!-- This dynamic graph renders your actual commit consistency using a fiery neon theme -->
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
+    <img src="https://herokuapp.com" alt="GitHub Streak Stats" width="85%" />
+  </a>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=viswar06&show_icons=true&locale=en&layout=compact" alt="viswar06" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=viswar06&show_icons=true&locale=en" alt="viswar06" /></p>
+### 📊 Deep Analytics Matrix & Language Heatmaps
+<div align="center">
+  <table border="0">
+    <tr>
+      <!-- Analytical Core Stats Graph Card -->
+      <td width="50%">
+        <img src="https://vercel.app" alt="Analytical Stats Card" width="100%"/>
+      </td>
+      <!-- Repository Top Languages Analytical Map -->
+      <td width="50%">
+        <img src="https://vercel.app" alt="Language Heatmap" width="100%"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=viswar06&" alt="viswar06" /></p>
+---
+
+### 🏆 Cosmic Milestone Trophies
+<div align="center">
+  <!-- Shiny arcade-style trophy awards that automatically activate as you get repository stars and PR merges -->
+  <img src="https://vercel.app" alt="Milestone Trophies" width="95%" />
+</div>
+
+---
+
+### 📈 Repository Velocity & Activity Wave
+<div align="center">
+  <!-- A dynamic 31-day wavy activity graph displaying exactly when your repos spark to life -->
+  <img src="https://vercel.app" alt="Activity Wave Graph" width="90%" />
+</div>
+
+---
+
+<div align="center">
+  <!-- Glowing Matrix Ping Counter -->
+  <img src="https://komarev.com" alt="Profile Views" />
+</div>
